@@ -1,2 +1,2 @@
-# js-hindi-youtube
-A code repo for javascript series at Chai aur code youtube channel
+# eram siddiqui
+A code repo for javascript series 
